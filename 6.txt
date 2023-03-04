@@ -1,1 +1,4 @@
-Added 6.txt for stash 
+Added 6.txt for stash
+
+added 2nd line in file 6.txt
+
