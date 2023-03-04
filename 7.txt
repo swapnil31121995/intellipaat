@@ -1,0 +1,8 @@
+<<<<<<< Updated upstream
+dfdfdfdffdfdfd:
+=======
+aadded 7.txt in 1 st line
+
+
+qwertyyyu
+>>>>>>> Stashed changes
