@@ -1,4 +1,7 @@
 adding 3.txt to check 
 adding third line 
 
-adding another line into the text 3.txt file 
+adding another line into the text 3.txt file
+
+
+aading the files for stach 
