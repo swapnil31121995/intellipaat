@@ -1,4 +1,10 @@
+<<<<<<< Updated upstream
 Added 6.txt for stash
 
 added 2nd line in file 6.txt
 
+=======
+added 1st line 6.tx
+
+sdsdsdsdsdsd:t
+>>>>>>> Stashed changes
